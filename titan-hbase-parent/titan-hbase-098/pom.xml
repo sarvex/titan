@@ -14,7 +14,7 @@
         <hadoop.profile>2.0</hadoop.profile>
         <hadoop.version>2.7.0</hadoop.version>
         <jruby.version>1.6.8</jruby.version>
-        <zookeeper.version>3.4.6</zookeeper.version>
+        <zookeeper.version>3.4.14</zookeeper.version>
         <top.level.basedir>${project.parent.parent.basedir}</top.level.basedir>
     </properties>
     
