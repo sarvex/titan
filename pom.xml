@@ -92,7 +92,7 @@
         <antlr2.version>2.7.7</antlr2.version>
         <antlr.version>3.2</antlr.version>
         <asm4.version>4.1</asm4.version>
-        <zookeeper.version>3.4.6</zookeeper.version>
+        <zookeeper.version>3.4.14</zookeeper.version>
         <jersey.version>1.18.2</jersey.version>
         <jna.version>3.2.7</jna.version>
         <kuali.s3.wagon.version>1.1.20</kuali.s3.wagon.version>
