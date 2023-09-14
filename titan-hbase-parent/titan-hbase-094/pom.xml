@@ -308,7 +308,7 @@
             </activation>
 
             <properties>
-                <hbase094.version>0.94.12-mapr-1310</hbase094.version>
+                <hbase094.version>0.94.27</hbase094.version>
                 <hadoop.version>1.0.3-mapr-3.0.2</hadoop.version>
                 <zookeeper.version>3.4.5</zookeeper.version>
                 <titan.hbase.mvn.opts.extra>-Dzookeeper.version=${zookeeper.version}</titan.hbase.mvn.opts.extra>
