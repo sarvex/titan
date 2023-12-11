@@ -90,7 +90,7 @@
         <joda.version>2.12.5</joda.version>
         <concurrentlinkedhashmap.version>1.4.2</concurrentlinkedhashmap.version>
         <antlr2.version>2.7.7</antlr2.version>
-        <antlr.version>3.2</antlr.version>
+        <antlr.version>3.5.3</antlr.version>
         <asm4.version>9.6</asm4.version>
         <zookeeper.version>3.7.2</zookeeper.version>
         <jersey.version>1.19.4</jersey.version>
