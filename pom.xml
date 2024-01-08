@@ -64,7 +64,7 @@
         <junit.version>4.13.1</junit.version>
         <mrunit.version>1.1.0</mrunit.version>
         <cassandra.version>4.0.10</cassandra.version>
-        <kryo.version>2.22</kryo.version>
+        <kryo.version>2.24.0</kryo.version>
         <metrics2.version>2.1.2</metrics2.version>
         <metrics3.version>3.0.2</metrics3.version>
         <sesame.version>4.1.2</sesame.version>
