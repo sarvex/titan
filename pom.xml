@@ -790,7 +790,7 @@
             <dependency>
                 <groupId>org.jacoco</groupId>
                 <artifactId>org.jacoco.ant</artifactId>
-                <version>0.6.2.201302030002</version>
+                <version>0.8.11</version>
             </dependency>
             <dependency>
                 <groupId>com.yammer.metrics</groupId>
@@ -1170,7 +1170,7 @@
                             <dependency>
                                 <groupId>org.jacoco</groupId>
                                 <artifactId>org.jacoco.ant</artifactId>
-                                <version>0.6.2.201302030002</version>
+                                <version>0.8.11</version>
                             </dependency>
                         </dependencies>
                     </plugin>
