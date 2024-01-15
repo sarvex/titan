@@ -95,7 +95,7 @@
         <zookeeper.version>3.9.1</zookeeper.version>
         <jersey.version>1.19.4</jersey.version>
         <jna.version>3.2.7</jna.version>
-        <kuali.s3.wagon.version>1.1.20</kuali.s3.wagon.version>
+        <kuali.s3.wagon.version>1.2.1</kuali.s3.wagon.version>
         <jasper.version>5.5.23</jasper.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
