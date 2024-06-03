@@ -87,7 +87,7 @@
         <elasticsearch.version>8.11.3</elasticsearch.version>
         <elasticsearch.mr.version>8.13.2</elasticsearch.mr.version>
         <commons.beanutils.version>1.9.4</commons.beanutils.version>
-        <joda.version>2.12.5</joda.version>
+        <joda.version>2.12.7</joda.version>
         <concurrentlinkedhashmap.version>1.4.2</concurrentlinkedhashmap.version>
         <antlr2.version>2.7.7</antlr2.version>
         <antlr.version>3.5.3</antlr.version>
